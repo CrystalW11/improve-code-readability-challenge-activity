@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07-Improve_Code_Readability")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67ae6f3e46590dbfb72c15f85793928762b22c0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("07-Improve_Code_Readability")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07-Improve_Code_Readability")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
