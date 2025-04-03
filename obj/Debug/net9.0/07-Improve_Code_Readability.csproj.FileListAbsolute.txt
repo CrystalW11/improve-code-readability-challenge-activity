@@ -1,0 +1,15 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\bin\Debug\net9.0\07-Improve_Code_Readability.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\bin\Debug\net9.0\07-Improve_Code_Readability.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\bin\Debug\net9.0\07-Improve_Code_Readability.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\bin\Debug\net9.0\07-Improve_Code_Readability.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\bin\Debug\net9.0\07-Improve_Code_Readability.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\obj\Debug\net9.0\07-Improve_Code_Readability.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\obj\Debug\net9.0\07-Improve_Code_Readability.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\obj\Debug\net9.0\07-Improve_Code_Readability.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\obj\Debug\net9.0\07-Improve_Code_Readability.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\obj\Debug\net9.0\07-Improve_Code_Readability.sourcelink.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\obj\Debug\net9.0\07-Improve_Code_Readability.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\obj\Debug\net9.0\refint\07-Improve_Code_Readability.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\obj\Debug\net9.0\07-Improve_Code_Readability.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\obj\Debug\net9.0\07-Improve_Code_Readability.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\07-Improve_Code_Readability\obj\Debug\net9.0\ref\07-Improve_Code_Readability.dll
